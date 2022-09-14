@@ -16,9 +16,13 @@ Truffle
 
 
 Upon downloading the file, use the below commands
+
 truffle compile (to comiple the smart contracts)
+
 truffle test (to run the tests)
+
 truffle migrate (to deploy the contracts on local blockcahin)
+
 truffle develop (to intract with the deployed contract)
 
 Corrections and suggestions are most welcome!
