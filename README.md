@@ -1,4 +1,4 @@
-Defi-Bank is a place where you can stake your USDC tokens and
+Defi-Bank is a place where you can deposit your USDC tokens and
 get interest for it. As interest, an ERC20 token called Interest token (INT)
 will be given.
 
